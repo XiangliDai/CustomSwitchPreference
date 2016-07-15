@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+        <CheckBoxPreference
+            android:layout="@layout/custom_preference_switch_layout"
+            android:defaultValue="true"
+            android:key="pref_key_allow_meet_me"
+            android:title="@string/pref_play_game"
+            />
+        <CheckBoxPreference
+            android:key="pref_key_change_password"
+            android:title="@string/pref_play_game"
+            android:widgetLayout="@layout/custom_switch_layout"
+            />
+        <com.example.xdai.custom_switch_preference.CustomSwitchPreference
+            android:key="pref_key_change_password"
+            android:title="@string/pref_play_game"
+            />
+</PreferenceScreen>

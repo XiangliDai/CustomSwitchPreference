@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Custom Switch Preference</string>
+    <string name="pref_play_game">Play game</string>
+</resources>

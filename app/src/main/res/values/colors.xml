@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/white</color>
+    <color name="colorPrimaryDark">@color/blue_gray</color>
+    <color name="colorAccent">@color/accent_default</color>
+    <color name="blue_gray">#6C7F8A</color>
+    <color name="accent_default">@color/mint</color>
+    <color name="accent_default_light">@color/plum</color>
+    <color name="dark_gray">#828c90</color>
+    <color name="charcoal">#2a353a</color>
+    <color name="mint">#00BFBF</color>
+    <color name="plum">#bb315b</color>
+    <color name="white">@android:color/white</color>
+
+</resources>
