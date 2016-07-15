@@ -1,5 +1,6 @@
 # CustomSwitchPreference
-It's trick to customize a SwitchPreference, in this repository I would like to introduce 3 different ways of doing it.
+How to customize SwitchPreference on Android
+It's tricky to customize a SwitchPreference, in this repository I would like to introduce 3 different ways of doing it.
 
 1, Create your own SwitchPreference layout if you want to not only customize the switch but also the style of title and/or summary;
 
