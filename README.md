@@ -9,6 +9,8 @@ It's trick to customize a SwitchPreference, in this repository I would like to i
 
 For the first two approaches, the tricky part is that, in the settings xml file, use CheckBoxPrefernce instead of SwitchPrefernce, since we can't refer     android:id="@android:id/switchWidget" in the customized layout file, we only have access of         android:id="@android:id/checkbox". Difference between them is, when apply the first layout put             android:layout="@layout/custom_preference_switch_layout"
 while for the second one, put             android:widgetLayout="@layout/custom_switch_layout"
+
+![alt tag](https://github.com/XiangliDai/CustomSwitchPreference/blob/master/Screenshot_20160714-204855.png)
  
 
 
