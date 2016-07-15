@@ -2,7 +2,7 @@
 
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
         <CheckBoxPreference
-            android:layout="@layout/custom_preference_switch_layout"
+            android:layout="@layout/custom_switch_preference_layout"
             android:defaultValue="true"
             android:key="pref_key_allow_meet_me"
             android:title="@string/pref_play_game"
